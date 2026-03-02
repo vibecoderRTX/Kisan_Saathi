@@ -451,7 +451,7 @@ It provides:
 
 ---
 
-## 🆕 **Latest Features (2025 Update)**
+## 🆕 **Latest Features (2026 Update)**
 
 ### 🛡️ Government Schemes & Subsidy Information
 
@@ -552,7 +552,7 @@ Provider: Dashboard → Provider Panel → List Equipment → Manage Rentals →
 
 ## 🗺️ **Roadmap**
 
-### ✅ Completed (2025 Q1)
+### ✅ Completed (2026 Q1)
 - [x] Government Schemes & Subsidy Information (42+ schemes)
 - [x] AI-powered scheme search with natural language processing
 - [x] QR code generation for instant scheme access
@@ -562,7 +562,7 @@ Provider: Dashboard → Provider Panel → List Equipment → Manage Rentals →
 - [x] PWA capabilities with offline support
 - [x] Responsive design for all devices
 
-### 🚧 In Progress (2025 Q2)
+### 🚧 In Progress (2026 Q2)
 - [ ] Multi-language support (Hindi, Tamil, Telugu, Marathi, Bengali)
 - [ ] SMS-based alerts for price changes and new schemes
 - [ ] Enhanced AI recommendations with crop yield prediction
@@ -570,7 +570,7 @@ Provider: Dashboard → Provider Panel → List Equipment → Manage Rentals →
 - [ ] Video tutorials for farming techniques
 - [ ] Dark mode theme support
 
-### 📋 Planned Features (2025 Q3-Q4)
+### 📋 Planned Features (2026 Q3-Q4)
 - [ ] Mobile app (iOS & Android) using React Native
 - [ ] Community forum for farmers to share knowledge
 - [ ] Crop yield prediction using ML models
@@ -728,4 +728,4 @@ If KisanSaathi has helped you or you believe in our mission to empower farmers w
 
 ---
 
-**Last Updated**: January 2025 | **Version**: 2.0.0 | **Status**: ✅ Production Ready
+**Last Updated**: January 2026 | **Version**: 2.0.0 | **Status**: ✅ Production Ready
